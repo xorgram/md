@@ -1,6 +1,6 @@
 # paste
 
-> Paste messages and text files to [Nekobin](https://nekobin.com)
+> Paste messages and text files to [Nekobin](https://nekobin.com).
 
 ## Installation
 
