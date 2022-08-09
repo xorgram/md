@@ -1,0 +1,22 @@
+{
+  "ghl": {
+    "description": "Format the GitHub links you send.",
+    "authors": ["roj1512"]
+  },
+  "github": {
+    "description": "Get information about GitHub users.",
+    "authors": ["ArnabXD"]
+  },
+  "sc": {
+    "description": "Detect misspellings in messages.",
+    "authors": ["roj1512"]
+  },
+  "paste": {
+    "description": "Paste messages and text files to [Nekobin](https://nekobin.com).",
+    "authors": ["dcdunkan"]
+  },
+  "gtr": {
+    "description": "Translate messages and convert text to speech.",
+    "authors": ["roj1512"]
+  }
+}

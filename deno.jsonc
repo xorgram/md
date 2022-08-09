@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "gen": "deno run --allow-write .gen.ts"
+  },
+  // This is not used, only for convenience.
+  "importMap": "./import_map.json"
+}
