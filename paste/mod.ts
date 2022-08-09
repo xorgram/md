@@ -53,7 +53,7 @@ export default {
           });
           return;
         }
-        
+
         const data = await response.json();
 
         if (!data.ok) {
