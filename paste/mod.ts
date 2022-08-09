@@ -45,7 +45,17 @@ export default {
           body: JSON.stringify({ content: content }),
         });
 
+        if (!response.ok) {
+          await client.sendMessage(event.chatId!, {
+            replyTo: event.message.id,
+            message: `Error: ${response.status} ${response.statusText}`,
+            linkPreview: false,
+          });
+          return;
+        }
+
         const data = await response.json();
+
         if (!data.ok) {
           await client.sendMessage(event.chatId!, {
             replyTo: event.message.id,
