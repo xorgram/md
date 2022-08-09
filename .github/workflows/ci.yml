@@ -23,6 +23,7 @@ jobs:
   gen:
     runs-on: ubuntu-latest
     needs: check
+    if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/checkout@v3
 
