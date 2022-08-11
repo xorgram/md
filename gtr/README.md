@@ -5,7 +5,7 @@
 ## Installation
 
 ```text
-\install https://raw.githubusercontent.com/xorgram/modules/gtr/mod.ts
+\install https://raw.githubusercontent.com/xorgram/md/main/gtr/mod.ts
 ```
 
 ## Help

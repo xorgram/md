@@ -5,7 +5,7 @@
 ## Installation
 
 ```text
-\install https://raw.githubusercontent.com/xorgram/modules/paste/mod.ts
+\install https://raw.githubusercontent.com/xorgram/md/main/paste/mod.ts
 ```
 
 ## Help
