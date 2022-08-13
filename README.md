@@ -4,6 +4,7 @@
 
 ## Index
 
+- [cleaner](./cleaner)
 - [ghl](./ghl)
 - [github](./github)
 - [gtr](./gtr)
