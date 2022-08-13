@@ -1,4 +1,8 @@
 {
+  "cleaner": {
+    "description": "Clean chats easily.",
+    "authors": ["roj1512"]
+  },
   "ghl": {
     "description": "Format the GitHub links you send.",
     "authors": ["roj1512"]
