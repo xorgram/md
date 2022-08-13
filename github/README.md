@@ -14,4 +14,4 @@
 \help github
 ```
 
-##### Author: [@ArnabXD](https://github.com/ArnabXD).
+##### Author: [@ArnabXD](https://github.com/ArnabXD)

@@ -14,4 +14,4 @@
 \help paste
 ```
 
-##### Author: [@dcdunkan](https://github.com/dcdunkan).
+##### Author: [@dcdunkan](https://github.com/dcdunkan)

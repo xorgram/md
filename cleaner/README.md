@@ -14,4 +14,4 @@
 \help cleaner
 ```
 
-##### Author: [@roj1512](https://github.com/roj1512).
+##### Author: [@roj1512](https://github.com/roj1512)
