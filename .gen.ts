@@ -21,7 +21,7 @@ for (const [k, v] of Object.entries(modules)) {
 
 ##### Author${v.authors.length == 1 ? "" : "s"}: ${
       v.authors.sort().map((v) => `[@${v}](https://github.com/${v})`).join(", ")
-    }.
+    }
 `,
   );
 }
